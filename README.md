@@ -1,2 +1,5 @@
-# object-oriented-programming-II-Java
-Coding projects from object-oriented programming II
+# Object-Oriented Programming II 
+- Name: Ihana Fahmy
+- Coding language: Java
+- First year and first semester of University.
+
