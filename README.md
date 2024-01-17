@@ -1,5 +1,5 @@
 # Object-Oriented Programming II 
 - Name: Ihana Fahmy
 - Coding language: Java
-- First year and first semester of University.
+- First year and second semester of University.
 
